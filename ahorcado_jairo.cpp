@@ -1,4 +1,4 @@
-// Ahorcado - version avanzada (Jairo)
+// Ahorcado (Jairo)
 // Categorias, dificultad, dibujo del ahorcado, letras usadas,
 // pistas, adivinar la palabra completa, puntaje y estadisticas.
 #include <iostream>
